@@ -10,4 +10,5 @@ streamlit
 requests
 shap
 plotly
+matplotlib.pyplot
 
