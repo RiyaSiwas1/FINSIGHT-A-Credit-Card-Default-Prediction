@@ -9,3 +9,5 @@ uvicorn[standard]
 streamlit
 requests
 shap
+plotly
+
